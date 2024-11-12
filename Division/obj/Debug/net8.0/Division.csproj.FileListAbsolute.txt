@@ -1,0 +1,14 @@
+C:\Users\ajcar\OneDrive\Desktop\Division\bin\Debug\net8.0\Division.exe
+C:\Users\ajcar\OneDrive\Desktop\Division\bin\Debug\net8.0\Division.deps.json
+C:\Users\ajcar\OneDrive\Desktop\Division\bin\Debug\net8.0\Division.runtimeconfig.json
+C:\Users\ajcar\OneDrive\Desktop\Division\bin\Debug\net8.0\Division.dll
+C:\Users\ajcar\OneDrive\Desktop\Division\bin\Debug\net8.0\Division.pdb
+C:\Users\ajcar\OneDrive\Desktop\Division\obj\Debug\net8.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajcar\OneDrive\Desktop\Division\obj\Debug\net8.0\Division.AssemblyInfoInputs.cache
+C:\Users\ajcar\OneDrive\Desktop\Division\obj\Debug\net8.0\Division.AssemblyInfo.cs
+C:\Users\ajcar\OneDrive\Desktop\Division\obj\Debug\net8.0\Division.csproj.CoreCompileInputs.cache
+C:\Users\ajcar\OneDrive\Desktop\Division\obj\Debug\net8.0\Division.dll
+C:\Users\ajcar\OneDrive\Desktop\Division\obj\Debug\net8.0\refint\Division.dll
+C:\Users\ajcar\OneDrive\Desktop\Division\obj\Debug\net8.0\Division.pdb
+C:\Users\ajcar\OneDrive\Desktop\Division\obj\Debug\net8.0\Division.genruntimeconfig.cache
+C:\Users\ajcar\OneDrive\Desktop\Division\obj\Debug\net8.0\ref\Division.dll
